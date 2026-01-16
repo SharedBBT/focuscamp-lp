@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="ja">
   <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8" />index.html.txtindex.html
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AIx 企業変革 Lite FocusCamp | Aoba-BBT</title>
 
